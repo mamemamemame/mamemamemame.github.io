@@ -165,6 +165,7 @@
     * 高難易度のクエストでは必須
 * ヒッヒ  
 ![](../XX_image/hihi.png)
+<img src="../XX_image/hihi.png" width="100px">
     * ヒヒイロカネの略称（金の延べ棒）
     * 使い道が多い
         * 十天衆関係
