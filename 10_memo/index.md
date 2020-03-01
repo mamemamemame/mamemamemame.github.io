@@ -23,7 +23,7 @@
     * 闇のヴィンテージ武器（limtedなみに強い）
     * 最近の流行ではなくなった
 * エッケ  
-<img src="../XX_image/ekke.jpg" width="100px">
+<img src="../XX_image/ekke.png" width="100px">
     * エッケザックスの略称
     * 火の武器
     * フラムグラスやシヴァが落とす
@@ -67,12 +67,19 @@
 
 * 神石
     * オプティマスシリーズの召喚石
-        * 火：アグニス
-        * 水：ヴァルナ
-        * 土：ティターン
-        * 風：ゼピュロス
-        * 光：ゼウス
-        * 闇：ハデス
+        * 火：アグニス  
+        <img src="../XX_image/agunisu.png" width="100px">
+        * 水：ヴァルナ  
+        <img src="../XX_image/varuna.png" width="100px">
+        * 土：ティターン  
+        <img src="../XX_image/thita-n.png" width="100px">
+        * 風：ゼピュロス  
+        <img src="../XX_image/zepyurosu.png" width="100px">
+        * 光：ゼウス  
+        <img src="../XX_image/zeus.png" width="100px">
+        * 闇：ハデス  
+        <img src="../XX_image/hadesu.png" width="100px">
+
 
 * 属性石：〇〇属性が攻撃力XXX％UP
     * 一番強い
@@ -109,16 +116,19 @@
 <img src="../XX_image/yowa.png" width="100px">
     * プロトタイプバハムートの略称
     * 30人参加かつ強い人も結構くるのでワンパンだけしても怒られない
-* つよバハ
+* つよバハ  
+<img src="../XX_image/tuyo.png" width="100px">
     * プロトタイプバハムートHLの略称
     * 18人で参加するマルチだが、とにかくHPが多い
     * 満員になることはほぼないので、欲しい素材があったら気軽に参加しよう  
     →怒られないけどなるべくワンパンじゃなくてしっかり殴ってあげよう
-* アルバハ
+* アルバハ  
+<img src="../XX_image/aru.png" width="100px">
     * アルティメットバハムートの略称
     * 30人参加かつ強い人も結構くるのでワンパンだけしても怒られない
     * もらえる素材がくそおいしいのでマルチで見かけたら絶対入ろう
-* ルシ
+* ルシ  
+<img src="../XX_image/rusi.png" width="100px">
     * ルシファーの略称
     * 30人参加かつ強い人も結構くるのでワンパンだけしても怒られない
 * マグナ2
@@ -153,10 +163,12 @@
 
 #### 入ってはだめなやつ
 
-* アルバハHL
+* アルバハHL  
+<img src="../XX_image/aruhl.png" width="100px">
     * アルティメットバハムートHLの略称
     * 6人マルチかつかなり強いのでランク１８０くらいになるまでは参加しないほうがよい
-* ルシHL
+* ルシHL  
+<img src="../XX_image/rusihl.png" width="100px">
     * ルシファーHLの略称
     * ものすごい強い。しかも自分が死ぬだけで回りもゲームオーバーになるので基本入らないこと
 
