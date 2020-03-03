@@ -85,7 +85,7 @@
         * まあ持てたら
 
 ※イメージ  
-<img src="../XX_image/mizu_varna_1.png" width="100px">
+<img src="../XX_image/mizu_varna_1.png" width="300px">
  
 * マグナ
     * 方陣攻刃 4-6本
@@ -101,5 +101,5 @@
         * まあ持てたら
 
 ※イメージ  
-<img src="../XX_image/mizu_maguna_1.png" width="100px">
+<img src="../XX_image/mizu_maguna_1.png" width="300px">
 
